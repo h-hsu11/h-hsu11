@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning: python, pandas, and github
 - 👯 I’m looking to collaborate on coding skills, DBMS, and etc
-- 🤔 I’m looking for help with SQL and Machine Learning
+- 🤔 I’m looking for help with R, SQL and Machine Learning
 - 💬 Ask me about: python and coding, project ideas
 - 📫 How to reach me: hskimint.11@gmail.com
 - 😄 Pronouns: Sue 
