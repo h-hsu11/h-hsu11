@@ -3,8 +3,8 @@
 
 
 - 🌱 I’m currently learning: python and github
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on coding skills, DBMS, Machine Learning, and etc
+- 🤔 I’m looking for help with SQL, Mongo DB
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
