@@ -7,4 +7,5 @@
 - 📫 How to reach me: hskim.int11@gmail.com 
 - ⚡ Fun fact: a passionate junior engineer with a background in social sciences and languages,
                 loves traveling and gardening, hopes to work with people from the world!
+- Everything I went through you were standing there by my side.
 
